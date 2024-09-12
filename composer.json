@@ -31,6 +31,10 @@
         "illuminate/database": "^8.12|^9.0|^10.0|^11.0"
     },
     "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev",
+            "dev-master": "1.x-dev"
+        },
         "laravel": {
             "providers": [
                 "TechT\\QueryService\\QueryServiceProvider"
