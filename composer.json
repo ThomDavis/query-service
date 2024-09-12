@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ThomDavis\\QueryService\\": "src"
+            "ThomDavis\\": "src/ThomDavis/"
         }
     },
     "authors": [
