@@ -1,5 +1,5 @@
 {
-    "name": "techt/query-service",
+    "name": "thomdavis/query-service",
     "description": "Query Service",
     "type": "library",
     "license": "mit",
@@ -20,7 +20,7 @@
             "email": "Techthomdavis@gmail.com"
         }
     ],
-    "homepage": "https://github.com/techt/query-service",
+    "homepage": "https://github.com/ThomDavis/query-service",
     "minimum-stability": "alpha",
     "require": {
         "php": "^8.2",
