@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\QueryServices;
+namespace ThomDavis\QueryService\QueryServices;
 
-use App\Http\Filters\BaseFilter;
+use ThomDavis\QueryService\Filters\BaseFilter;
 
 abstract class BaseQueryService
 {

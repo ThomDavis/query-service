@@ -1,6 +1,6 @@
 <?php
 
-namespace Thomdavis\Gardner\Providers;
+namespace Thomdavis\QueryService\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

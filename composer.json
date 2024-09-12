@@ -4,14 +4,14 @@
     "type": "library",
     "license": "mit",
     "keywords": [
-        "techt",
+        "thomdavis",
         "laravel",
         "query",
         "service"
     ],
     "autoload": {
         "psr-4": {
-            "Techt\\QueryService\\": "src"
+            "ThomDavis\\QueryService\\": "src"
         }
     },
     "authors": [
@@ -37,7 +37,7 @@
         },
         "laravel": {
             "providers": [
-                "TechT\\QueryService\\QueryServiceProvider"
+                "ThomDavis\\QueryService\\QueryServiceProvider"
             ]
         }
     }
