@@ -1,0 +1,19 @@
+{
+    "name": "techt/query-service",
+    "description": "Query Service",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Techt\\FilterQueryServicePattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thom Davis",
+            "email": "Techthomdavis@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
